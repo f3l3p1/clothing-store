@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+.DS_Store
+
+# Archivos de configuración y dependencias
+.env
